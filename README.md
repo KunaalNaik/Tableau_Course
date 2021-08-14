@@ -3,6 +3,8 @@
 ## 1/ Install Tableau Public (TP) 
 - https://public.tableau.com/en-us/s/
 
+### Use Whichever version available
+
 ## 2/ Sign Up and Sign In (SS)
 - Create and Account on Tableau Public 
 - Sign In both Online and on Tableau Software 
