@@ -12,7 +12,7 @@
 ## 3/ Download Data (DD) 
 - Data: https://github.com/KunaalNaik/Tableau_Course/blob/master/Session.zip
 - PPT: https://github.com/KunaalNaik/Tableau_Course/blob/master/Dashboarding%20with%20Tableau%20v24112018.pdf
-
+- zZip: https://www.7-zip.org/ (used for unzipping Session.zip)
 
 # Dashboarding
 
