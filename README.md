@@ -8,7 +8,8 @@
 - Sign In both Online and on Tableau Software 
 
 ## 3/ Download Data (DD) 
-- https://github.com/KunaalNaik/Tableau_Course/blob/master/Session.zip
+- Data: https://github.com/KunaalNaik/Tableau_Course/blob/master/Session.zip
+- PPT: https://github.com/KunaalNaik/Tableau_Course/blob/master/Dashboarding%20with%20Tableau%20v24112018.pdf
 
 
 # Dashboarding
