@@ -17,7 +17,22 @@
 # Dashboarding
 
 Run The Business
-Context(Questions) -> Why, What, When, How, Where -> Insights (for Who)
+## Context(Questions) -> Why, What, When, How, Where -> Insights (for Who)
 
 Change the Business (Projects)
-Context(Questions) -> Why, What, When, How, Where -> Decision Making(for Stakeholder)
+## Context(Questions) -> Why, What, When, How, Where -> Decision Making(for Stakeholder)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
