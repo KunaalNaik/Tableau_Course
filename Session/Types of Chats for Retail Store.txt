@@ -1,0 +1,6 @@
+1/ Region Sales Summary
+2/ Top 5 Sub Categories by Sales
+3/ Sales Trend by Month/Year (Order Date)
+4/ Map Chart to show Profitable States (Profit) 
+
+back 3:55
